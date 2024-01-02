@@ -1,2 +1,2 @@
 # eulergit
- project_euler
+Solutions I provided for some project euler issues
