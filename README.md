@@ -1,2 +1,2 @@
 # eulergit
-Solutions I provided for some project euler issues
+Ocaml & Python solutions I provided for some project euler issues
