@@ -1,2 +1,0 @@
-# eulergit
- project_euler
